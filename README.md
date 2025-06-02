@@ -25,4 +25,4 @@ Data is **modeled in a star schema**, enabling efficient business intelligence, 
 
 This pipeline illustrates the flow from **raw CSV ingestion** to **business-ready data** through a structured ETL process within SQL Server:
 
-![Data Flow Diagram](https://github.com/user-attachments/assets/88796b22-11c7-49d3-ae85-bdb12ccf22a7)
+![data_flow](https://github.com/user-attachments/assets/9dfca8d0-8ceb-40ee-a61f-95e667c30ccf)
