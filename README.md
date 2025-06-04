@@ -91,9 +91,7 @@ This project is a solid showcase of skills in:
 - **Sources**: Two CSV datasets (CRM and ERP)
 - **Scope**: Clean, integrate and model the latest data only (no historization)
 - **Outcome**: A dimensional model ready for analytics and reporting
-- **Delivery**: Full ETL pipeline, star schema, and clear documentation
+- **Delivery**: Full ETL pipeline, star schema
 
----
 
-📌 Feel free to clone this repository and use it as a **template for your own data engineering projects**!
 
