@@ -72,26 +72,5 @@ This project is a solid showcase of skills in:
 
 ---
 
-## 🛠️ Tools & Resources
-
-| Tool                    | Purpose                                     |
-|-------------------------|---------------------------------------------|
-| SQL Server Express      | Host the data warehouse                     |
-| SQL Server Management Studio (SSMS) | Manage databases and run queries         |
-| Git / GitHub            | Version control and collaboration           |
-| CSV Datasets            | Raw data (CRM & ERP systems)                |
-| Draw.io                 | Diagram design (architecture, flow, schema) |
-| Notion (optional)       | Project planning and documentation          |
-
----
-
-## 🚀 Project Requirements Summary
-
-- **Goal**: Build a SQL-based data warehouse to unify CRM and ERP data
-- **Sources**: Two CSV datasets (CRM and ERP)
-- **Scope**: Clean, integrate and model the latest data only (no historization)
-- **Outcome**: A dimensional model ready for analytics and reporting
-- **Delivery**: Full ETL pipeline, star schema
-
 
 
